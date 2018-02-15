@@ -1,10 +1,1 @@
- Volume in drive C is Windows8_OS
- Volume Serial Number is AC9D-13DD
-
- Directory of C:\Users\RASHMI\Desktop\testProj
-
-15-02-2018  14:43    <DIR>          .
-15-02-2018  14:43    <DIR>          ..
-15-02-2018  14:43                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  410,512,183,296 bytes free
+rashmikokkalaki
